@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you want to use these tasks, please cite it as below."
+authors:
+- family-names: "Niu"
+  given-names: "Xuezhi"
+  orcid: "https://orcid.org/0009-0003-2381-1850"
+
+title: "Investigating Symbiosis in Robotic Ecosystems: A Case Study for Multi-Robot Reinforcement Learning Reward Shaping"
+version: 2.0.4
+// doi: 10.5281/zenodo.1234
+// date-released: 2017-12-18
+url: "https://github.com/n7729697/RewMARL"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Niu"
+    given-names: "Xuezhi"
+    orcid: "https://orcid.org/0009-0003-2381-1850"
+  - family-names: "Natalia Calvo"
+    given-names: "Barajas"
+    orcid: "https://orcid.org/0000-0002-2788-1421"
+  - family-names: "Broo"
+    given-names: "Didem Gürdür"
+    orcid: "https://orcid.org/0000-0002-8853-4159"
+  conference:
+    name: "2025 9th International Conference on Robotics and Automation Sciences (ICRAS)"
+  title: "Investigating Symbiosis in Robotic Ecosystems: A Case Study for Multi-Robot Reinforcement Learning Reward Shaping"
+  year: 2025
+  publisher: "IEEE"
