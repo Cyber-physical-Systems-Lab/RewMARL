@@ -55,7 +55,7 @@ If you use this code or find the idea useful, please consider citing our work:
 ```
 @inproceedings{niu2025symbiosis,
   title={Investigating Symbiosis in Robotic Ecosystems: A Case Study for Multi-Robot Reinforcement Learning Reward Shaping},
-  author    = {Xuezhi Niu and Barajas Natalia Calvo and Didem Gürdür Broo},
+  author    = {Xuezhi Niu and Didem Gürdür Broo},
   booktitle = {the 2025 9th International Conference on Robotics and Automation Sciences (ICRAS)},
   year      = {2025},
   publisher = {IEEE}
